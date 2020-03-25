@@ -1,0 +1,18 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\bin\Debug\Kayan Yazı V2.0.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\bin\Debug\Kayan Yazı V2.0.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan_Yazı_V2._0.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan_Yazı_V2._0.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.exe
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.pdb
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\bin\Debug\Kayan Yazı V2.0.exe
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\bin\Debug\Kayan Yazı V2.0.pdb
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan_Yazı_V2._0.Form1.resources
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan_Yazı_V2._0.Properties.Resources.resources
+C:\Users\murat\Desktop\24 Kodbank C# Görsel Programlama 24 Kayan Yazı Animasyonu V2.0\Kayan Yazi V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\35 Kayan Yazi Animasyonu V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.exe
+E:\04 - Yazılım\04 - Form Projeleri\35 Kayan Yazi Animasyonu V2.0\Kayan Yazı V2.0\obj\x86\Debug\Kayan Yazı V2.0.pdb
